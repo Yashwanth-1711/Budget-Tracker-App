@@ -1,4 +1,21 @@
 {
-    "initial_budget": 45235.042,
-    "expenses": []
+    "initial_budget": 150000.52,
+    "expenses": [
+        {
+            "description": "Electronics",
+            "amount": 75000.35
+        },
+        {
+            "description": "Food",
+            "amount": 5642.75
+        },
+        {
+            "description": "Snacks",
+            "amount": 756.25
+        },
+        {
+            "description": "Recharge",
+            "amount": 348.25
+        }
+    ]
 }
